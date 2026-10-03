@@ -1,0 +1,9 @@
+# Cloudflare Tunnel runtime state (PID, URLs, logs)
+.cloudflare-tunnel/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
