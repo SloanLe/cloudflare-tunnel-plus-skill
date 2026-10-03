@@ -19,7 +19,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/<你的用户名>/cloudflare-tunnel-plus-skill /tmp/cft-plus
+git clone https://github.com/SloanLe/cloudflare-tunnel-plus-skill /tmp/cft-plus
 mkdir -p ~/.claude/skills/cloudflare-tunnel-plus
 cp -R /tmp/cft-plus/SKILL.md /tmp/cft-plus/scripts /tmp/cft-plus/references \
       ~/.claude/skills/cloudflare-tunnel-plus/

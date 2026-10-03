@@ -41,7 +41,7 @@
 豆包（Doubao）用户 skill 目录：
 
 ```bash
-git clone https://github.com/<你的用户名>/cloudflare-tunnel-plus-skill /tmp/cft-plus
+git clone https://github.com/SloanLe/cloudflare-tunnel-plus-skill /tmp/cft-plus
 mkdir -p <你的workspace>/.user_skills/cloudflare-tunnel-plus
 cp -R /tmp/cft-plus/SKILL.md /tmp/cft-plus/scripts /tmp/cft-plus/references \
       <你的workspace>/.user_skills/cloudflare-tunnel-plus/
@@ -51,7 +51,7 @@ rm -rf /tmp/cft-plus
 Claude Code 全局安装（所有项目可用）：
 
 ```bash
-git clone https://github.com/<你的用户名>/cloudflare-tunnel-plus-skill /tmp/cft-plus
+git clone https://github.com/SloanLe/cloudflare-tunnel-plus-skill /tmp/cft-plus
 mkdir -p ~/.claude/skills/cloudflare-tunnel-plus
 cp -R /tmp/cft-plus/SKILL.md /tmp/cft-plus/scripts /tmp/cft-plus/references \
       ~/.claude/skills/cloudflare-tunnel-plus/
